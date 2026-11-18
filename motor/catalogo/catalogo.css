@@ -1068,13 +1068,18 @@
   .ova-cronograma__fecha span { margin: 0; }
 }
 
-/* Etiqueta de un componente (.ova-etiqueta): la línea «Etiqueta:» del Word, sobre el rótulo. */
+/* Etiqueta de un componente (.ova-etiqueta): la línea «Etiqueta:» del Word, sobre el rótulo. El aire que
+   separa el bloque de lo anterior va encima de la etiqueta y no entre ella y su rótulo: el rótulo se le
+   pega (antes era al revés: la etiqueta quedaba junto al párrafo de arriba y a 40 px de su título). En la
+   línea de tiempo tipo 3 la etiqueta es lo primero de la caja y no lleva aire arriba. */
 .ova-etiqueta {
-  display: flex; align-items: center; gap: 8px; margin: 0 0 6px;
+  display: flex; align-items: center; gap: 8px; margin: 40px 0 6px;
   font-family: var(--font-display); font-weight: 800; font-size: .74rem; letter-spacing: .18em;
   text-transform: uppercase; color: var(--c-info);
 }
 .ova-etiqueta::before { content: ''; width: 22px; height: 2px; background: currentColor; }
+.ova-etiqueta + .ova-rotulo { margin-top: 8px; }
+.ova-cronologia > .ova-etiqueta { margin-top: 0; }
 
 /* Línea de tiempo tipo 3 (.ova-cronologia): interactiva. Un punto por fecha; al tocar una, la línea se
    llena hasta ella y debajo se abre su panel (año, título y texto). Todo el texto está en la página;
