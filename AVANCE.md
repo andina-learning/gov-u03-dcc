@@ -1,16 +1,13 @@
-# Avance · Evaluación y reforma curricular en la educación superior · 2026-11-18
+# Avance · Evaluación y reforma curricular en la educación superior · 2026-11-24
 
 Esta entrega es un avance: lo que sigue está detenido y llega en una entrega siguiente.
 
 ## Huecos por llenar
 
-- `tema2.html`: video de apertura · ERRORES-ORIGEN F1: falta el enlace correcto
-- `tema2.html`: video de 2.2 · ERRORES-ORIGEN F29: falta el archivo 01_vid
 - `tema3.html`: pódcast de 3.2 · ERRORES-ORIGEN F30 y F2: falta el archivo 01_pod, su duración y su transcripción
 
 ## Errores de origen abiertos
 
-- `ERRORES-ORIGEN-2026-11-16.md`: F1 (Tema 2, apertura · P0513–P0514, «Vincular video») · pendiente · precisada 2026-11-17: el video de la leyenda existe en `youtube.com/watch?v=ts9yXUjKxVM` (IISUE UNAM oficial, 2019-03-07, 16 min 9 s); lo confirma el instruccional
 - `ERRORES-ORIGEN-2026-11-16.md`: F2 (Tema 3, 3.2 · P0935, pódcast) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F3 (Tema 1, 1.1 · P0159) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F4 (Tema 2, cierre de 2.3 · P0775) · pendiente
@@ -19,8 +16,6 @@ Esta entrega es un avance: lo que sigue está detenido y llega en una entrega si
 - `ERRORES-ORIGEN-2026-11-16.md`: F7 (Tema 2, 2.2 · T19, bloque de diseño de la Figura 6) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F8 (Tema 1, 1.3 · P0454–P0468, ruta en zigzag) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F9 (Tema 2, 2.2 · T18 fila 8, Tabla 7) · pendiente · precisada 2026-11-17: «3.1.1» se lee como unidad 3, subtema 1.1; el resto del Word cita «subtema 1.1»
-- `ERRORES-ORIGEN-2026-11-16.md`: F10 (Tema 1, 1.1 · T04 fila 1, Tabla 1) · pendiente
-- `ERRORES-ORIGEN-2026-11-16.md`: F11 (Tema 1, 1.2 · T10 fila 2, Tabla 3) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F12 (Tema 1, 1.3 · P0422, tarjeta 2) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F13 (Tema 3, 3.1 · P0854) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F15 (Tema 1, 1.3 y tema 3, 3.2 · P0384–P0406 y P0912–P0925, pestañas verticales) · pendiente
@@ -30,14 +25,12 @@ Esta entrega es un avance: lo que sigue está detenido y llega en una entrega si
 - `ERRORES-ORIGEN-2026-11-16.md`: F19 (Tema 2, 2.1 y Referencias · P0565 contra P1004) · pendiente · precisada 2026-11-17: puede ser fecha de la resolución y fecha de publicación; verificar contra El Peruano
 - `ERRORES-ORIGEN-2026-11-16.md`: F20 (Referencias · P0995–P1010) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F21 (Introducción y tema 2 · P0023, P0034, T01 fila 7, P0599 contra P0043, P0225, P0…) · pendiente
-- `ERRORES-ORIGEN-2026-11-16.md`: F22 (Tema 3, 3.2 · P0979, pie de `04_img`) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F23 (Varias · P0017; P0133, P0136, P0139; P0198, P0317, P0331, P0553, P0573, P0850, …) · pendiente · precisada 2026-11-17: «Nota para el agente:» e «Imagen sugerida:» son de la plantilla; solo queda P0017
 - `ERRORES-ORIGEN-2026-11-16.md`: F24 (Tema 2, 2.1 y Referencias · P0562 contra P1002) · pendiente · precisada 2026-11-17: el párrafo dice qué dispone la ley y la referencia da su título; verificar contra El Peruano
 - `ERRORES-ORIGEN-2026-11-16.md`: F25 (Tema 1, 1.1 · `01_inf_….png`, tarjeta «Coherencia interna») · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F26 (Tema 2, 2.3 · `07_fig_….png`, primer párrafo) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F27 (Tema 1, 1.1 · `02_inf_….png`) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F28 (Tema 2, 2.3 · `05_inf_….png`) · pendiente
-- `ERRORES-ORIGEN-2026-11-16.md`: F29 (Tema 2, 2.2 · P0658, `01_vid_….mp4` (guion `GVE_U03_DCC_v01`, T20)) · pendiente
 - `ERRORES-ORIGEN-2026-11-16.md`: F30 (Tema 3, 3.2 · P0933, `01_pod_….mp3` (guion `GPC_U03_DCC_v01`, T28)) · pendiente
 - `ERRORES-ORIGEN-2026-11-17.md`: F31 (Tema 1, apertura · P0108, «Tarjetas que giran») · pendiente
 - `ERRORES-ORIGEN-2026-11-17.md`: F34 (Tema 1, 1.1 · P0221, título del acordeón) · pendiente
